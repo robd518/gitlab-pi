@@ -3,3 +3,8 @@
 
 # Local History for Visual Studio Code
 .history/
+
+# Gitlab specific dirs for the docker image
+config
+logs
+data
